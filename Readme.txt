@@ -1,0 +1,1 @@
+A somewhat stylized version of Shakespeare's Sonnet 18. Uses CSS to make it look nicer than simply black on white and has an image of Shakespeare on the righthand side of the screen so one can see the author. 

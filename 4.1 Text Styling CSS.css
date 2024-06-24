@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(238, 235, 212);
+    margin: 20px; 
+    font-family: 'Times New Roman', 'Arial Narrow', Arial, sans-serif;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    height: 100vh;
+}
+
+article{
+    color: darkblue;
+    padding-left: 30px; 
+}
+
+aside{
+    position: fixed;
+    right: 100px;
+    top: 100px;
+    scale: 200%;
+}
+
+footer {
+    width: 100%;
+    padding: 20px; 
+    position: fixed; 
+    bottom: 0;
+}
